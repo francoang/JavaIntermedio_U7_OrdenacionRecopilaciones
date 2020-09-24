@@ -10,7 +10,7 @@ _Este proyecto contiene las demostraciones en clases referidas a la Unidad 7 sob
 * Ordenación de recopilaciones.
 
 ## ¿Cómo descargar el proyecto? 🔧
-1. _Arriba a la derecha aparecerá un botón verde llamado "Clone or download"_
+1. _Arriba a la derecha aparecerá un botón verde llamado "Code"_
 
 2. _Hacer clic y seleccionar la opción "Download ZIP"_
 
